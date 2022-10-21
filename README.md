@@ -9,7 +9,7 @@
  "_id": "bb34d497663b225b9ba8ece1f2000d2f",
  "_rev": "2-93a8a85eb473875189fd97d45dd95b4a",
  "name": "krillo",
- "email": "krillo@gmail.com",
+ "email": "krillo@surf.se",
  "phone": "0761-001199",
  "titles": [
    "Mr",
