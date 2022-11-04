@@ -1,7 +1,10 @@
 # A node app using Couch DB
 
 - To run this app you need to install a [CouchDB](https://couchdb.apache.org/)
-- Start it and access it at [http://localhost:5984/\_utils/](http://localhost:5984/_utils/)
+- Start it as an app on your mac.
+- Access it at [http://localhost:5984/\_utils/](http://localhost:5984/_utils/)
+- user/pass - admin/admin
+- couch dokumentation [https://www.npmjs.com/package/node-couchdb](https://www.npmjs.com/package/node-couchdb)
 - The code uses a database called **reptilo** with documents like this:
 
 ```ts

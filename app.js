@@ -20,7 +20,7 @@ const viewUrl = "_design/all_customers/_view/all/";
 couch.listDatabases().then(
   (dbs) => console.log(dbs),
   (err) => {
-    console.log("cant lits dbs...");
+    console.log("cant list dbs...");
   }
 );
 
